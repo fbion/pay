@@ -1,0 +1,8 @@
+[2015-11-09 12:01:22] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to a member function getMessage() on a non-object' in /Users/river/Workspace/pay/app/common/gateway/YeepayGateway.class.php:86
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2015-11-09 12:01:26] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to a member function getMessage() on a non-object' in /Users/river/Workspace/pay/app/common/gateway/YeepayGateway.class.php:86
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []

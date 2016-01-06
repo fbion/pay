@@ -1,0 +1,7 @@
+2015-11-10 10:34:08
+SERVER: {remote_addr: 127.0.0.1}
+SERVICE: /trans/batch_trans
+METHOD: GET
+REQUEST: {"channel":"1"}
+RESPONSE: {"is_success":"F","err_code":2006,"err_msg":"\u83b7\u53d6hMac\u5931\u8d25!","timestamp":1447122848,"channel":"1","sign":"14a29ea5294084c2bff5e347da30a5da"}
+

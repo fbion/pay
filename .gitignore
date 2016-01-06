@@ -1,0 +1,8 @@
+/node_modules
+Homestead.yaml
+Homestead.json
+tags
+.idea
+*.swp
+*.swo
+.project

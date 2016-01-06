@@ -1,0 +1,12 @@
+你好，
+拿到以下两码后，请参照附件所示证书下载手册及时到cfca官方网站(http://www.cfca.com.cn)下载证书，
+24小时内下载使用，否则过期无效。
+ 
+ 
+ 
+ 前台显示两码  姓名:  北京纯粹旅行有限公司  
+ 证书DN:  cn=041@Z10012431575@Beijing Right-Trip Travel @00000001,ou=Enterprises,ou=ra.yeepay.com,o=CFCA Operation CA2,c=cn  
+ 证书参考号:  3fbf3df0cd478cb4a70b85d9d934b654  
+ 证书授权码:  c84d58df8f72e1e5f7499d1a0d266da4  
+
+d5a5456d989c4ad05cd51147e35e093b
